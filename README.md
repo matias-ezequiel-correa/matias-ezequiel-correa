@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Matías Ezequiel Corre a 😁
+## Bem-vindo(a) ao perfil do Matías Ezequiel Correa 😁
 
  <div>
    <a href="https://github.com/matias-ezequiel-correa">
