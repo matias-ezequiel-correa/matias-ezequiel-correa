@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/matias-ezequiel-correa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matias-ezequiel-correa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-ezequiel-correa&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matias-ezequiel-correa&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-ezequiel-correa&layout=compact&langs_count=6&theme=aura_dark"/>
 
 </div>
 <div style="display: inline_block"><br>
